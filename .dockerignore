@@ -1,0 +1,9 @@
+.git
+**/node_modules
+_output
+_artifacts
+_tests
+src/**/bin
+src/**/obj
+Dockerfile
+.dockerignore
